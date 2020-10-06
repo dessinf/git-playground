@@ -1,6 +1,6 @@
- this 
-is 
-for 
+this 
+is
+for
 git
-:wq
 
+this has been added
