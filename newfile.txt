@@ -2,5 +2,4 @@ this
 is 
 a file
 for
-git
-
+gita new line
