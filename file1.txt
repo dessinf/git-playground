@@ -1,3 +1,4 @@
 this is for 
 my file text
-there are 3 lines
+there are 4 lines now
+this line has been added 
