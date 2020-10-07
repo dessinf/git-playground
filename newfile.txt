@@ -1,10 +1,15 @@
 this
 is 
 a file
+<<<<<<< HEAD
 a different line this time
 ew line 
+=======
+this was a different line
+gita new line 
+>>>>>>> conflict
 not sure 
 if this
 added correctly 
-this is now using git
+this is now 
 
