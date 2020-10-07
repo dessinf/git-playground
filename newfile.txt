@@ -1,15 +1,8 @@
-this
-is 
-a file
-<<<<<<< HEAD
-a different line this time
-ew line 
-=======
-this was a different line
-gita new line 
->>>>>>> conflict
-not sure 
-if this
-added correctly 
-this is now 
+this is 
+the only
+sentence
+in
+the 
+file
+>>>>>>> 9def3e2c226c64c8d5cc4a5f03848f99253b6d91
 
